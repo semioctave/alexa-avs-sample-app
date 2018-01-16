@@ -1,8 +1,8 @@
-![](../../wiki/assets/alexa-logo-3.png)
-
+![b01enwykre5 _sr970 200_](https://user-images.githubusercontent.com/34485667/34988522-0743d412-fae5-11e7-8181-9399e2c24313.jpg)
+___
 ## About the project
 
-This project provides a step-by-step walkthrough to help you build a **hands-free** [Alexa Voice Service](https://developer.amazon.com/avs) (AVS) prototype in 60 minutes, using wake word engines from [Sensory](https://github.com/Sensory/alexa-rpi) or [KITT.AI](https://github.com/Kitt-AI/snowboy). Now, in addition to pushing a button to "start listening", you can now also just say the wake word "Alexa", much like the [Amazon Echo](https://amazon.com/echo). You can find step-by-step instructions to set up the hands-free prototype on [Raspberry Pi](../../wiki/Raspberry-Pi), or follow the instructions to set up the push-to-talk only prototype on [Linux](../../wiki/Linux), [Mac](../../wiki/Mac), or [Windows](../../wiki/Windows).
+This project provides a step-by-step walkthrough to help you build a **hands-free** [Alexa Voice Service](https://developer.amazon.com/avs) (AVS) prototype in 60 minutes, using wake word engines from [Sensory](https://github.com/Sensory/alexa-rpi) or [KITT.AI](https://github.com/Kitt-AI/snowboy). Now, in addition to pushing a button to "start listening", you can now also just say the wake word "Alexa", much like the [Amazon Echo](https://amazon.com/echo). You can find step-by-step instructions to set up the hands-free prototype on [Raspberry Pi](../../wiki/Raspberry-Pi).
 
 ---
 
@@ -14,18 +14,14 @@ This project provides a step-by-step walkthrough to help you build a **hands-fre
 
 ## Get started
 
-You can set up this project on the following platforms -
+You can set up this project a Raspberry Pi -
 
-* [Raspberry Pi](../../wiki/Raspberry-Pi), or
-* [Linux](../../wiki/Linux), or
-* [Mac](../../wiki/Mac), or
-* [Windows](../../wiki/Windows)  
+* [Raspberry Pi](../../wiki/Raspberry-Pi),   
 
 Or you can prototype with these third-party dev kits -
 
 * *New!* [Raspberry Pi + Microsemi AcuEdge Development Kit for Amazon AVS](https://github.com/MicrosemiVoiceProcessing/ZLK38AVS/wiki/howto)    
 * [Raspberry Pi + Conexant 4-mic Development Kit for Amazon AVS](https://github.com/conexant/alexa-avs-sample-app/wiki/Conexant4Mic-Raspberry-Pi)
-* [Raspberry Pi + Conexant 2-Mic Development Kit for Amazon AVS](../../wiki/Conexant2Mic-Raspberry-Pi)  
 
 ---
 
