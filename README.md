@@ -16,7 +16,7 @@ This project provides a step-by-step walkthrough to help you build a **hands-fre
 
 You can set up this project a Raspberry Pi -
 
-* [Raspberry Pi](../../wiki/Raspberry-Pi),   
+* [Raspberry Pi](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi),   
 
 Or you can prototype with these third-party dev kits -
 
